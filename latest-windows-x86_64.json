@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "## [0.4.0](https://github.com/long-lazuli/boutikaa/compare/v0.3.0...v0.4.0) (2026-07-13)\n\n\n### Features\n\n* **release:** make per-platform release build/publish independent (beta.9) ([83a14ed](https://github.com/long-lazuli/boutikaa/commit/83a14ed1fd8ac1b341658a14a77a778c2814a213))",
-  "pub_date": "2026-07-13T20:05:44Z",
+  "version": "0.4.1",
+  "notes": "## [0.4.1](https://github.com/long-lazuli/boutikaa/compare/v0.4.0...v0.4.1) (2026-07-13)\n\n\n### Bug Fixes\n\n* **release:** select extra release platforms via PR labels, not checkboxes ([720d0e2](https://github.com/long-lazuli/boutikaa/commit/720d0e2bd67b19ad5efd2975fcbc1a61bf3fb246))",
+  "pub_date": "2026-07-13T20:53:05Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/long-lazuli/boutikaa-builds/raw/main/v0.4.0/boutikaa_0.4.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTnh6U3lJeHVUcEljcGRhemJneFcrb09UcEdlSkloU25SV0x4YkovdXczQTJYaExZTW1ySmZHY0RDRDBHU2lob2lzK2ZYYU5zUlMrOEhFT1VxRWhaRHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTcyOTY3CWZpbGU6Ym91dGlrYWFfMC40LjBfeDY0LXNldHVwLmV4ZQpjTVZBNzg5QlhjeDY2dkFZaVlJOWRUOWNGeUZDUE1KS3hGdzJoSnc0L015RzNaYkw0ZUtiN3AzNGp6ajRBR0hVQWRFWVBKQXVQSjVjUGxBRFJKeXVBZz09Cg=="
+      "url": "https://github.com/long-lazuli/boutikaa-builds/raw/main/v0.4.1/boutikaa_0.4.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjNLRnM2ZVlpSHorL0YwODA3anJxVFZ3K2NzNmZYQi9oemRteWFQb1NPVENBZkNxdUg2OFAvdnRDZitERkxtN1FXWERoZkFMSm1uZmZqSDh0OTJieEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTc1NzA4CWZpbGU6Ym91dGlrYWFfMC40LjFfeDY0LXNldHVwLmV4ZQpkQnFGVGtEWFYrUDdaMEYycWFnWE5MdVlyRGNheTZGdzZoMHNJU0RqazJyeTZ3WXhITGpnM1pST1VMY2F3cU13RHREZTBUdm40UnRacTVxb3pNblRBQT09Cg=="
     }
   }
 }

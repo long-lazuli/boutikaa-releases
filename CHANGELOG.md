@@ -405,6 +405,16 @@
 
 ## Released Versions
 
+### v0.4.1 — 2026-07-13T20:53:06Z
+
+## [0.4.1](https://github.com/long-lazuli/boutikaa/compare/v0.4.0...v0.4.1) (2026-07-13)
+
+
+### Bug Fixes
+
+* **release:** select extra release platforms via PR labels, not checkboxes ([720d0e2](https://github.com/long-lazuli/boutikaa/commit/720d0e2bd67b19ad5efd2975fcbc1a61bf3fb246))
+
+
 ### v0.4.0 — 2026-07-13T20:05:44Z
 
 ## [0.4.0](https://github.com/long-lazuli/boutikaa/compare/v0.3.0...v0.4.0) (2026-07-13)
