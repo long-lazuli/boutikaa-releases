@@ -405,4 +405,9 @@
 
 ## Released Versions
 
+### v0.0.1-e2e-verify-test.2 — 2026-07-13T12:55:39Z
+
+TEST E2E — vérification pipeline (macOS .app.tar.gz), ne pas installer, sera reverté
+
+
 <!-- release-please will insert real entries here, starting from the first published version -->
