@@ -405,6 +405,16 @@
 
 ## Released Versions
 
+### v0.4.0 — 2026-07-13T20:05:44Z
+
+## [0.4.0](https://github.com/long-lazuli/boutikaa/compare/v0.3.0...v0.4.0) (2026-07-13)
+
+
+### Features
+
+* **release:** make per-platform release build/publish independent (beta.9) ([83a14ed](https://github.com/long-lazuli/boutikaa/commit/83a14ed1fd8ac1b341658a14a77a778c2814a213))
+
+
 ### v0.2.2 — 2026-07-13T15:08:01Z
 
 ## [0.2.2](https://github.com/long-lazuli/boutikaa/compare/v0.2.1...v0.2.2) (2026-07-13)
