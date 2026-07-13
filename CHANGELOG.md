@@ -405,6 +405,16 @@
 
 ## Released Versions
 
+### v0.2.2 — 2026-07-13T15:08:01Z
+
+## [0.2.2](https://github.com/long-lazuli/boutikaa/compare/v0.2.1...v0.2.2) (2026-07-13)
+
+
+### Bug Fixes
+
+* **ci:** give release-please-action a PAT so its tags trigger release.yml ([7a3c6a2](https://github.com/long-lazuli/boutikaa/commit/7a3c6a284a7be1a4f04df4c9396419b3a2cba57f))
+
+
 ### v0.2.0 — 2026-07-13T14:31:08Z
 
 ## [0.2.0](https://github.com/long-lazuli/boutikaa/compare/boutikaa-v0.1.0...boutikaa-v0.2.0) (2026-07-13)
