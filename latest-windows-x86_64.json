@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "## [0.6.4](https://github.com/long-lazuli/boutikaa/compare/v0.6.3...v0.6.4) (2026-07-14)\n\n\n### Bug Fixes\n\n* **update:** make an announced update always actionable, and a failed check say so ([5edd1ba](https://github.com/long-lazuli/boutikaa/commit/5edd1ba5ea8979347b898fde388ae08fff7184fe))",
-  "pub_date": "2026-07-14T13:16:07Z",
+  "version": "0.7.0",
+  "notes": "## [0.7.0](https://github.com/long-lazuli/boutikaa/compare/v0.6.4...v0.7.0) (2026-07-14)\n\n\n### Features\n\n* **update:** say which version is offered, and what changed ([0dc4f34](https://github.com/long-lazuli/boutikaa/commit/0dc4f34e9ebab0b8864a561d9dfb2c89484b2ae5))",
+  "pub_date": "2026-07-14T14:05:40Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.6.4/boutikaa_0.6.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjkyaWJSbWMxYzZaUFNNcmtTNk9SN2hiY0g5Q1pvYm8xbVBqWVBmNElwRXdnQVZadlQ1MEJjTUdjNzRHRXF2V1BTUHR3dTBrelZORlNXakJ3ODl1V1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDM0OTI2CWZpbGU6Ym91dGlrYWFfMC42LjRfeDY0LXNldHVwLmV4ZQpvSTBoZkVEOUMraE1jck1DNWFkbjFrV2RGWFdiN2k5dUE5N0hSSExNU3c4eDlWQWJ5T0YrQTlUY1FYR3ZPVnozdnF1bWllSC9EMjYreUM2alVsY3JBQT09Cg=="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.7.0/boutikaa_0.7.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTitsWjRvdmZjbXZ1YXZvVm5qRU1nT0pwK28wMWp3eTVrRkdvTDltbTkvMEk4d05tOWRJUWlWZUtnNE9CVXdMY1VWT2FXMXI3MThaVzJVRGpMZXU3QlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDM3ODk0CWZpbGU6Ym91dGlrYWFfMC43LjBfeDY0LXNldHVwLmV4ZQozREtHSlN6VVFDQ1lJNUlnaisxNzh6SDJTMzg2Z3BXTG1nSGJxNGRhZjlxMmd5ZzEwRnpEUTBDZmVNV211bkJ4aXpuVk0vcWFMNjZCVUtJZ3cvUHBDUT09Cg=="
     }
   }
 }
