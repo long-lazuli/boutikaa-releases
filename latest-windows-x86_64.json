@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "## [0.6.3](https://github.com/long-lazuli/boutikaa/compare/v0.6.2...v0.6.3) (2026-07-14)\n\n\n### Miscellaneous Chores\n\n* cut a drill release for the pre-festival update/rollback validation ([5e9a4cb](https://github.com/long-lazuli/boutikaa/commit/5e9a4cb47450a6ca3111235561a33b0a553e8e68))",
-  "pub_date": "2026-07-14T12:23:37Z",
+  "version": "0.6.4",
+  "notes": "## [0.6.4](https://github.com/long-lazuli/boutikaa/compare/v0.6.3...v0.6.4) (2026-07-14)\n\n\n### Bug Fixes\n\n* **update:** make an announced update always actionable, and a failed check say so ([5edd1ba](https://github.com/long-lazuli/boutikaa/commit/5edd1ba5ea8979347b898fde388ae08fff7184fe))",
+  "pub_date": "2026-07-14T13:16:07Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.6.3/boutikaa_0.6.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjA4Vjl5SDJRd3h5VXN6b3BjZEVwVHQ4RjZJUUZCaFY0Q2dwRWlIc0JMTFIyWlBBVThOM21jK2RGK1d0R0tKRmRJYWhvc3Y2OGZyZ24vZWE3bHBMcHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDMxNzc1CWZpbGU6Ym91dGlrYWFfMC42LjNfeDY0LXNldHVwLmV4ZQpxbGF3bnUzM1AwOEtrTDQ3eEdVUE5ySVA1MlRvbE5md1V6U3VTanpBckFlUzhDRkxqalQ4TUg3dWJFS3pUTmJoVlVyQ08vR29IeVNSdDJUVkxEb2pEdz09Cg=="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.6.4/boutikaa_0.6.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjkyaWJSbWMxYzZaUFNNcmtTNk9SN2hiY0g5Q1pvYm8xbVBqWVBmNElwRXdnQVZadlQ1MEJjTUdjNzRHRXF2V1BTUHR3dTBrelZORlNXakJ3ODl1V1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDM0OTI2CWZpbGU6Ym91dGlrYWFfMC42LjRfeDY0LXNldHVwLmV4ZQpvSTBoZkVEOUMraE1jck1DNWFkbjFrV2RGWFdiN2k5dUE5N0hSSExNU3c4eDlWQWJ5T0YrQTlUY1FYR3ZPVnozdnF1bWllSC9EMjYreUM2alVsY3JBQT09Cg=="
     }
   }
 }
