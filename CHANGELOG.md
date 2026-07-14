@@ -2,6 +2,23 @@
 
 ## Released Versions
 
+### v0.6.2 — 2026-07-14T11:50:06Z
+
+## [0.6.2](https://github.com/long-lazuli/boutikaa/compare/v0.6.1...v0.6.2) (2026-07-14)
+
+
+### Bug Fixes
+
+* **os-e2e:** default the drill to real tags, gate synthetic ones behind opt-in ([b5faecb](https://github.com/long-lazuli/boutikaa/commit/b5faecb20a0e9743dbd431226669299c879046df))
+* **settings:** say which version is running, and admit when a check failed ([7604863](https://github.com/long-lazuli/boutikaa/commit/7604863bfca4894a92bf1892e93530c7b35adb02))
+
+
+### Performance Improvements
+
+* **ci:** stop the cache warm-up from cancelling itself ([4367267](https://github.com/long-lazuli/boutikaa/commit/436726788d2d14dcddd9d4dfad0e48258b2d8488))
+* **ci:** warm the cache with the same command the release runs ([c6133da](https://github.com/long-lazuli/boutikaa/commit/c6133da421076ad67dd4ebcc62a7d9c3f6ad0d0e))
+
+
 ### v0.6.0 — 2026-07-14T09:47:46Z
 
 ## [0.6.0](https://github.com/long-lazuli/boutikaa/compare/v0.5.1...v0.6.0) (2026-07-14)
