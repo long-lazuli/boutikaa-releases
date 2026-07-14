@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.7.0 — 2026-07-14T14:06:23Z
+
+## [0.7.0](https://github.com/long-lazuli/boutikaa/compare/v0.6.4...v0.7.0) (2026-07-14)
+
+
+### Features
+
+* **update:** say which version is offered, and what changed ([0dc4f34](https://github.com/long-lazuli/boutikaa/commit/0dc4f34e9ebab0b8864a561d9dfb2c89484b2ae5))
+
+
 ### v0.6.4 — 2026-07-14T13:17:01Z
 
 ## [0.6.4](https://github.com/long-lazuli/boutikaa/compare/v0.6.3...v0.6.4) (2026-07-14)
