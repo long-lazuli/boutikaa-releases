@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.6.3 — 2026-07-14T12:24:18Z
+
+## [0.6.3](https://github.com/long-lazuli/boutikaa/compare/v0.6.2...v0.6.3) (2026-07-14)
+
+
+### Miscellaneous Chores
+
+* cut a drill release for the pre-festival update/rollback validation ([5e9a4cb](https://github.com/long-lazuli/boutikaa/commit/5e9a4cb47450a6ca3111235561a33b0a553e8e68))
+
+
 ### v0.6.2 — 2026-07-14T11:50:06Z
 
 ## [0.6.2](https://github.com/long-lazuli/boutikaa/compare/v0.6.1...v0.6.2) (2026-07-14)
