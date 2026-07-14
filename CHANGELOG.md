@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.6.4 — 2026-07-14T13:17:01Z
+
+## [0.6.4](https://github.com/long-lazuli/boutikaa/compare/v0.6.3...v0.6.4) (2026-07-14)
+
+
+### Bug Fixes
+
+* **update:** make an announced update always actionable, and a failed check say so ([5edd1ba](https://github.com/long-lazuli/boutikaa/commit/5edd1ba5ea8979347b898fde388ae08fff7184fe))
+
+
 ### v0.6.3 — 2026-07-14T12:24:18Z
 
 ## [0.6.3](https://github.com/long-lazuli/boutikaa/compare/v0.6.2...v0.6.3) (2026-07-14)
