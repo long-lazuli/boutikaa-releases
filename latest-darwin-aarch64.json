@@ -3,9 +3,9 @@
   "notes": "## [0.5.0](https://github.com/long-lazuli/boutikaa/compare/v0.4.1...v0.5.0) (2026-07-14)\n\n\n### Features\n\n* **settings:** let the operator set the update access token in the app ([9a31dcd](https://github.com/long-lazuli/boutikaa/commit/9a31dcdef060899441af4d89fb98853e3928ed63))\n\n\n### Bug Fixes\n\n* **ci:** keep Cargo.lock in sync with the release version ([7007080](https://github.com/long-lazuli/boutikaa/commit/7007080f1b196806de5dd624cdb135acb6676d42))\n* **os-e2e:** emit test tags newer than the installed version ([0430d9d](https://github.com/long-lazuli/boutikaa/commit/0430d9ddf51a90ed28cb7197e71d6d81ddf1edf6))\n* **packaging:** drop the firewall installer hook — it fixed the wrong problem ([f4d7d27](https://github.com/long-lazuli/boutikaa/commit/f4d7d2720f3c1b2e5bb727907970526bacf16971))\n* **update:** point the release manifest at a URL the updater can actually fetch ([434f0ec](https://github.com/long-lazuli/boutikaa/commit/434f0ec59e30272ed29c2c2049f8f38cac422f83))\n* **update:** stop the rollback path from bricking the register ([d508380](https://github.com/long-lazuli/boutikaa/commit/d5083802bb820a45267606ed8c3262e3849a89b9))",
   "pub_date": "2026-07-14T08:28:58Z",
   "platforms": {
-    "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.5.0/boutikaa_0.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjN6a2ZTTzVPaEtFSWdRM2hvMzQ1NXRGMVBiKzNTTW1yTElLd0ZUeVlHRE8xT2Zxc1FkQlc5SUdmc0FxSjAvaHo0aE00TEQxSTZnRjM4UGtoM3k2TGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDE3NDc2CWZpbGU6Ym91dGlrYWFfMC41LjBfeDY0LXNldHVwLmV4ZQpEMTVRQUprcVVpK0laUmd4T0VZaUFCZ3hIeUV4UHJacldxM0h5V0t0SWRiTElrS2Y3S2xYclExTVdBVm1lRXBpb0dYS1ZsR2pnczdzVSt1cGtDQ2tBQT09Cg=="
+    "darwin-aarch64": {
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.5.0/boutikaa.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjh2b2I1cjQ5bkppT2xhZjJiNmJ6eG03VnhWaEJQMndIRE1Qd3RuMjdWSW5WZU1XM1ZJcXJiSmtYMHRobGhvOHh0Q2dLbUpVQXU5RTJ2N294MGZsb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDE2Mzg1CWZpbGU6Ym91dGlrYWEuYXBwLnRhci5negpMN3BFUkRrbHgycHpXRW9WUDBUWnVpRjYrWFNIVU5JcWZHYmRLZHFuSlBFb3hsL21WbWZzOC8wVHZDS0ZoR1JBcUhueEd3NjJUYWk2MTRkdnhXaWVBQT09Cg=="
     }
   }
 }

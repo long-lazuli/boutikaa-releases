@@ -405,6 +405,25 @@
 
 ## Released Versions
 
+### v0.5.0 — 2026-07-14T08:28:59Z
+
+## [0.5.0](https://github.com/long-lazuli/boutikaa/compare/v0.4.1...v0.5.0) (2026-07-14)
+
+
+### Features
+
+* **settings:** let the operator set the update access token in the app ([9a31dcd](https://github.com/long-lazuli/boutikaa/commit/9a31dcdef060899441af4d89fb98853e3928ed63))
+
+
+### Bug Fixes
+
+* **ci:** keep Cargo.lock in sync with the release version ([7007080](https://github.com/long-lazuli/boutikaa/commit/7007080f1b196806de5dd624cdb135acb6676d42))
+* **os-e2e:** emit test tags newer than the installed version ([0430d9d](https://github.com/long-lazuli/boutikaa/commit/0430d9ddf51a90ed28cb7197e71d6d81ddf1edf6))
+* **packaging:** drop the firewall installer hook — it fixed the wrong problem ([f4d7d27](https://github.com/long-lazuli/boutikaa/commit/f4d7d2720f3c1b2e5bb727907970526bacf16971))
+* **update:** point the release manifest at a URL the updater can actually fetch ([434f0ec](https://github.com/long-lazuli/boutikaa/commit/434f0ec59e30272ed29c2c2049f8f38cac422f83))
+* **update:** stop the rollback path from bricking the register ([d508380](https://github.com/long-lazuli/boutikaa/commit/d5083802bb820a45267606ed8c3262e3849a89b9))
+
+
 ### v0.4.1 — 2026-07-13T20:53:06Z
 
 ## [0.4.1](https://github.com/long-lazuli/boutikaa/compare/v0.4.0...v0.4.1) (2026-07-13)
