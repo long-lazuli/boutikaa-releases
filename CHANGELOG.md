@@ -2,6 +2,21 @@
 
 ## Released Versions
 
+### v0.6.0 — 2026-07-14T09:47:46Z
+
+## [0.6.0](https://github.com/long-lazuli/boutikaa/compare/v0.5.1...v0.6.0) (2026-07-14)
+
+
+### Features
+
+* **os-e2e:** make the drill one command, from git pull to verdict ([656180e](https://github.com/long-lazuli/boutikaa/commit/656180e7565f7fae29cbc260129ee63ed5713d98))
+
+
+### Bug Fixes
+
+* **ci:** stop release-please failing when it cuts a release instead of a PR ([b52e5e5](https://github.com/long-lazuli/boutikaa/commit/b52e5e5b4fd79b7884165c20442108b38ff41fda))
+
+
 ### v0.5.0 — 2026-07-14T08:28:59Z
 
 ## [0.5.0](https://github.com/long-lazuli/boutikaa/compare/v0.4.1...v0.5.0) (2026-07-14)
