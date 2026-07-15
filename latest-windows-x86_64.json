@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "notes": "## [0.7.0](https://github.com/long-lazuli/boutikaa/compare/v0.6.4...v0.7.0) (2026-07-14)\n\n\n### Features\n\n* **update:** say which version is offered, and what changed ([0dc4f34](https://github.com/long-lazuli/boutikaa/commit/0dc4f34e9ebab0b8864a561d9dfb2c89484b2ae5))",
-  "pub_date": "2026-07-14T14:05:40Z",
+  "version": "0.8.0",
+  "notes": "## [0.8.0](https://github.com/long-lazuli/boutikaa/compare/v0.7.0...v0.8.0) (2026-07-15)\n\n\n### Features\n\n* **counter:** issue and spend paper gift cards ([1abb60e](https://github.com/long-lazuli/boutikaa/commit/1abb60e84ba36a0f3dc888c30b83571ff4c7072e))\n* **counter:** split payments — a sale is settled by a list of tenders ([6a3734c](https://github.com/long-lazuli/boutikaa/commit/6a3734c22dafe3c0d40eef487bf5288f741919d5))\n* **credit:** unify the credit domain behind a kind discriminant ([d51c97d](https://github.com/long-lazuli/boutikaa/commit/d51c97d16d91ae700a14ca28bc63a4e4aa2c28fe))\n* **seed:** a full fake shop, three months deep, deterministic ([4c2f02a](https://github.com/long-lazuli/boutikaa/commit/4c2f02a4afdd6bdc677e81cdb03274dd27bf6bd8))\n* **settings:** hide Backup and Update outside the installed app ([bd4fff9](https://github.com/long-lazuli/boutikaa/commit/bd4fff912ab9fa0704dcd44482135f56382a7df2))\n\n\n### Bug Fixes\n\n* **packaging:** perl is a Windows build prerequisite — install, check, document ([828c61b](https://github.com/long-lazuli/boutikaa/commit/828c61b6faf57eafaa5dd3959d24ee6e0d64171e))",
+  "pub_date": "2026-07-15T09:56:48Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.7.0/boutikaa_0.7.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTitsWjRvdmZjbXZ1YXZvVm5qRU1nT0pwK28wMWp3eTVrRkdvTDltbTkvMEk4d05tOWRJUWlWZUtnNE9CVXdMY1VWT2FXMXI3MThaVzJVRGpMZXU3QlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDM3ODk0CWZpbGU6Ym91dGlrYWFfMC43LjBfeDY0LXNldHVwLmV4ZQozREtHSlN6VVFDQ1lJNUlnaisxNzh6SDJTMzg2Z3BXTG1nSGJxNGRhZjlxMmd5ZzEwRnpEUTBDZmVNV211bkJ4aXpuVk0vcWFMNjZCVUtJZ3cvUHBDUT09Cg=="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.8.0/boutikaa_0.8.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTi9tNHlkNkxCMHVYM2k5L2ZpWEZxSjJxK0JZTzlvZ01qSVBvRzVlaStvcVRDZXg4TDRFQjdvbWN5eWdJNEt6SzMrZHhTNkdHaFNtWkdVOWdQVkhacVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTA5MzczCWZpbGU6Ym91dGlrYWFfMC44LjBfeDY0LXNldHVwLmV4ZQpTV1RPOWcydWlBUTBFODk1bVRuMGNpRVdRZnh4NWJkTk16NVBQOHRPMGNMMzZUMWxMNzIxeDloY2x3b0xOTTEwWUI5S3hYMGlVT25OS1NFVy9ZT0tCZz09Cg=="
     }
   }
 }
