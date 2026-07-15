@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "## [0.8.0](https://github.com/long-lazuli/boutikaa/compare/v0.7.0...v0.8.0) (2026-07-15)\n\n\n### Features\n\n* **counter:** issue and spend paper gift cards ([1abb60e](https://github.com/long-lazuli/boutikaa/commit/1abb60e84ba36a0f3dc888c30b83571ff4c7072e))\n* **counter:** split payments — a sale is settled by a list of tenders ([6a3734c](https://github.com/long-lazuli/boutikaa/commit/6a3734c22dafe3c0d40eef487bf5288f741919d5))\n* **credit:** unify the credit domain behind a kind discriminant ([d51c97d](https://github.com/long-lazuli/boutikaa/commit/d51c97d16d91ae700a14ca28bc63a4e4aa2c28fe))\n* **seed:** a full fake shop, three months deep, deterministic ([4c2f02a](https://github.com/long-lazuli/boutikaa/commit/4c2f02a4afdd6bdc677e81cdb03274dd27bf6bd8))\n* **settings:** hide Backup and Update outside the installed app ([bd4fff9](https://github.com/long-lazuli/boutikaa/commit/bd4fff912ab9fa0704dcd44482135f56382a7df2))\n\n\n### Bug Fixes\n\n* **packaging:** perl is a Windows build prerequisite — install, check, document ([828c61b](https://github.com/long-lazuli/boutikaa/commit/828c61b6faf57eafaa5dd3959d24ee6e0d64171e))",
-  "pub_date": "2026-07-15T09:56:48Z",
+  "version": "0.9.0",
+  "notes": "## [0.9.0](https://github.com/long-lazuli/boutikaa/compare/v0.8.0...v0.9.0) (2026-07-15)\n\n\n### Features\n\n* **closure:** cheque display depth setting reflected at daily closing (9.6 slice) ([eda80cb](https://github.com/long-lazuli/boutikaa/commit/eda80cb59a95232a35882b9a23d6203c6dfe7b5b))\n* **closure:** cheque pointing at closing + recount layout redesign (9.6 slice) ([f969cb7](https://github.com/long-lazuli/boutikaa/commit/f969cb7cd3a0926b6d3c1efcfe640b606297aeb6))\n* **invoicing:** commission-invoice legal-mention conformity (5-2g) ([fe16333](https://github.com/long-lazuli/boutikaa/commit/fe163334578fe89356132ca90c493c5a2f44ab84))",
+  "pub_date": "2026-07-15T20:10:17Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.8.0/boutikaa_0.8.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTi9tNHlkNkxCMHVYM2k5L2ZpWEZxSjJxK0JZTzlvZ01qSVBvRzVlaStvcVRDZXg4TDRFQjdvbWN5eWdJNEt6SzMrZHhTNkdHaFNtWkdVOWdQVkhacVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTA5MzczCWZpbGU6Ym91dGlrYWFfMC44LjBfeDY0LXNldHVwLmV4ZQpTV1RPOWcydWlBUTBFODk1bVRuMGNpRVdRZnh4NWJkTk16NVBQOHRPMGNMMzZUMWxMNzIxeDloY2x3b0xOTTEwWUI5S3hYMGlVT25OS1NFVy9ZT0tCZz09Cg=="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.9.0/boutikaa_0.9.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTitmcmoxZm5iUElJa2pndkFGTFIveUNxalNCeEx6b2lkK1R1amswVGtJVDFFWWljL2hHWUYxaW5Ec2xaQVdaNG12UDVwZURacTBGN2s4bUF0OFZXTWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQ2MTc3CWZpbGU6Ym91dGlrYWFfMC45LjBfeDY0LXNldHVwLmV4ZQoyc3VmZFVLK3JyZFFrdDNUOGN6bUF1dHp1WDNvczVlYzJVa1dxNUhIWkJpWFoyMVVrZzQ0Mk81SUdLWE5tM1dWV2NZbTQxNHkzUjl4Y3RHVWs1OFZEZz09Cg=="
     }
   }
 }
