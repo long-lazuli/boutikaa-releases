@@ -2,6 +2,18 @@
 
 ## Released Versions
 
+### v0.9.0 — 2026-07-15T20:10:50Z
+
+## [0.9.0](https://github.com/long-lazuli/boutikaa/compare/v0.8.0...v0.9.0) (2026-07-15)
+
+
+### Features
+
+* **closure:** cheque display depth setting reflected at daily closing (9.6 slice) ([eda80cb](https://github.com/long-lazuli/boutikaa/commit/eda80cb59a95232a35882b9a23d6203c6dfe7b5b))
+* **closure:** cheque pointing at closing + recount layout redesign (9.6 slice) ([f969cb7](https://github.com/long-lazuli/boutikaa/commit/f969cb7cd3a0926b6d3c1efcfe640b606297aeb6))
+* **invoicing:** commission-invoice legal-mention conformity (5-2g) ([fe16333](https://github.com/long-lazuli/boutikaa/commit/fe163334578fe89356132ca90c493c5a2f44ab84))
+
+
 ### v0.8.0 — 2026-07-15T09:57:28Z
 
 ## [0.8.0](https://github.com/long-lazuli/boutikaa/compare/v0.7.0...v0.8.0) (2026-07-15)
