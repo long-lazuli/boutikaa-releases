@@ -2,6 +2,25 @@
 
 ## Released Versions
 
+### v0.8.0 — 2026-07-15T09:57:28Z
+
+## [0.8.0](https://github.com/long-lazuli/boutikaa/compare/v0.7.0...v0.8.0) (2026-07-15)
+
+
+### Features
+
+* **counter:** issue and spend paper gift cards ([1abb60e](https://github.com/long-lazuli/boutikaa/commit/1abb60e84ba36a0f3dc888c30b83571ff4c7072e))
+* **counter:** split payments — a sale is settled by a list of tenders ([6a3734c](https://github.com/long-lazuli/boutikaa/commit/6a3734c22dafe3c0d40eef487bf5288f741919d5))
+* **credit:** unify the credit domain behind a kind discriminant ([d51c97d](https://github.com/long-lazuli/boutikaa/commit/d51c97d16d91ae700a14ca28bc63a4e4aa2c28fe))
+* **seed:** a full fake shop, three months deep, deterministic ([4c2f02a](https://github.com/long-lazuli/boutikaa/commit/4c2f02a4afdd6bdc677e81cdb03274dd27bf6bd8))
+* **settings:** hide Backup and Update outside the installed app ([bd4fff9](https://github.com/long-lazuli/boutikaa/commit/bd4fff912ab9fa0704dcd44482135f56382a7df2))
+
+
+### Bug Fixes
+
+* **packaging:** perl is a Windows build prerequisite — install, check, document ([828c61b](https://github.com/long-lazuli/boutikaa/commit/828c61b6faf57eafaa5dd3959d24ee6e0d64171e))
+
+
 ### v0.7.0 — 2026-07-14T14:06:23Z
 
 ## [0.7.0](https://github.com/long-lazuli/boutikaa/compare/v0.6.4...v0.7.0) (2026-07-14)
