@@ -2,6 +2,27 @@
 
 ## Released Versions
 
+### v0.10.0 — 2026-07-16T06:53:59Z
+
+## [0.10.0](https://github.com/long-lazuli/boutikaa/compare/v0.9.0...v0.10.0) (2026-07-16)
+
+
+### Features
+
+* **closure:** binary verdict + reconciliation buckets at the recount (9.6 slice) ([31d838f](https://github.com/long-lazuli/boutikaa/commit/31d838f1030a1b084371b9e39b40c9245ec471df))
+* **closure:** cheque reconciliation detail screen (9.6 surface 2) ([e959131](https://github.com/long-lazuli/boutikaa/commit/e959131829fd0075bffce2263c91c26236750880))
+* **closure:** feeds_drawer flag per payment mode (9.6 AC3/AC9) ([d2ccd9d](https://github.com/long-lazuli/boutikaa/commit/d2ccd9d73767ff948a74925ebdfef64b9d836600))
+* **closure:** fold drawer-feeding modes into the cash count (9.6 AC2/AC8) ([33117a4](https://github.com/long-lazuli/boutikaa/commit/33117a4e4f8594387a2a92f54026be3436296b4e))
+* **closure:** prepare a cheque bank deposit (9.6 surface 3) ([cb682d1](https://github.com/long-lazuli/boutikaa/commit/cb682d17d83607b4bb35c84fe5ed2fae43b0d11c))
+* **closure:** reconciliation detail + deposit backend (9.6 surfaces 2/3) ([5d6c209](https://github.com/long-lazuli/boutikaa/commit/5d6c2093825e075b1f856b9495e51bc9e2a75349))
+* **skills:** add pattern-finder-audit skill ([c7db2c3](https://github.com/long-lazuli/boutikaa/commit/c7db2c3181604904eba71d328c5a45e84569c94a))
+
+
+### Bug Fixes
+
+* **closure:** review fixes for 9.6 reconciliation ([44c5d19](https://github.com/long-lazuli/boutikaa/commit/44c5d1981be4e6686289acb0425994299cd42074))
+
+
 ### v0.9.0 — 2026-07-15T20:10:50Z
 
 ## [0.9.0](https://github.com/long-lazuli/boutikaa/compare/v0.8.0...v0.9.0) (2026-07-15)
