@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "## [0.10.0](https://github.com/long-lazuli/boutikaa/compare/v0.9.0...v0.10.0) (2026-07-16)\n\n\n### Features\n\n* **closure:** binary verdict + reconciliation buckets at the recount (9.6 slice) ([31d838f](https://github.com/long-lazuli/boutikaa/commit/31d838f1030a1b084371b9e39b40c9245ec471df))\n* **closure:** cheque reconciliation detail screen (9.6 surface 2) ([e959131](https://github.com/long-lazuli/boutikaa/commit/e959131829fd0075bffce2263c91c26236750880))\n* **closure:** feeds_drawer flag per payment mode (9.6 AC3/AC9) ([d2ccd9d](https://github.com/long-lazuli/boutikaa/commit/d2ccd9d73767ff948a74925ebdfef64b9d836600))\n* **closure:** fold drawer-feeding modes into the cash count (9.6 AC2/AC8) ([33117a4](https://github.com/long-lazuli/boutikaa/commit/33117a4e4f8594387a2a92f54026be3436296b4e))\n* **closure:** prepare a cheque bank deposit (9.6 surface 3) ([cb682d1](https://github.com/long-lazuli/boutikaa/commit/cb682d17d83607b4bb35c84fe5ed2fae43b0d11c))\n* **closure:** reconciliation detail + deposit backend (9.6 surfaces 2/3) ([5d6c209](https://github.com/long-lazuli/boutikaa/commit/5d6c2093825e075b1f856b9495e51bc9e2a75349))\n* **skills:** add pattern-finder-audit skill ([c7db2c3](https://github.com/long-lazuli/boutikaa/commit/c7db2c3181604904eba71d328c5a45e84569c94a))\n\n\n### Bug Fixes\n\n* **closure:** review fixes for 9.6 reconciliation ([44c5d19](https://github.com/long-lazuli/boutikaa/commit/44c5d1981be4e6686289acb0425994299cd42074))",
-  "pub_date": "2026-07-16T06:53:21Z",
+  "version": "0.11.0",
+  "notes": "## [0.11.0](https://github.com/long-lazuli/boutikaa/compare/v0.10.0...v0.11.0) (2026-07-16)\n\n\n### Features\n\n* **gift-cards:** allow cancelling ticket-issued gift cards when untouched ([da99817](https://github.com/long-lazuli/boutikaa/commit/da9981738a3b7ad854ac8c6f413a5a99723a431f))\n\n\n### Bug Fixes\n\n* **invoicing:** derive the service date from the business day, not wall-clock ([48df4ff](https://github.com/long-lazuli/boutikaa/commit/48df4ff428660a18c45bf30ff2e9e219c716b089))",
+  "pub_date": "2026-07-16T10:48:21Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.10.0/boutikaa_0.10.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjNLRlVjNGVTWlBjLzdTbEZRQTIvQjVaMXNOOFpOZzUyQVdyVlh5YkhlajNGZXJrMlpFb3JHUGRNcTZ5NjY3ZzZHWHIxbmFhR3JqcTBuWjNpL3JhZ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTg0NzU0CWZpbGU6Ym91dGlrYWFfMC4xMC4wX3g2NC1zZXR1cC5leGUKSituQ2lRZGp0a1ZkUGcvajVsL2hQeGx4ajFwY1pjQjFRRGZWdlJEc2U1bTdlSjdLbGVacVdCc3FGakJBT1Ird3hNU2VRSWE0d09hRHdxWFlsU0xFQVE9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.11.0/boutikaa_0.11.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjVnblE0YkdQVlZIOUMxWlpPWWtGaU1KVFhyVTRIaTZwMmtpMXpub3JBOGxwaktyTDJhcjQ0TDJKR0d2QTFBS3RpUGt2Zk9Ga1QxS09mWWxyNUFoelFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk4ODQzCWZpbGU6Ym91dGlrYWFfMC4xMS4wX3g2NC1zZXR1cC5leGUKKzQ5TzlhRitVWnNSSEJwd2RLMW5GTUdIc2oreEhZcXk2V3MzQ0hUUzRiMzc3N1pSZS9sa1RUTkJYR3BaVEdlRTlnbDJlSGtxN2RrMkFOWU5OeFRNQVE9PQo="
     }
   }
 }
