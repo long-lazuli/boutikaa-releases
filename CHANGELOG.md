@@ -2,6 +2,21 @@
 
 ## Released Versions
 
+### v0.11.0 — 2026-07-16T10:48:54Z
+
+## [0.11.0](https://github.com/long-lazuli/boutikaa/compare/v0.10.0...v0.11.0) (2026-07-16)
+
+
+### Features
+
+* **gift-cards:** allow cancelling ticket-issued gift cards when untouched ([da99817](https://github.com/long-lazuli/boutikaa/commit/da9981738a3b7ad854ac8c6f413a5a99723a431f))
+
+
+### Bug Fixes
+
+* **invoicing:** derive the service date from the business day, not wall-clock ([48df4ff](https://github.com/long-lazuli/boutikaa/commit/48df4ff428660a18c45bf30ff2e9e219c716b089))
+
+
 ### v0.10.0 — 2026-07-16T06:53:59Z
 
 ## [0.10.0](https://github.com/long-lazuli/boutikaa/compare/v0.9.0...v0.10.0) (2026-07-16)
