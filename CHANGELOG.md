@@ -2,6 +2,40 @@
 
 ## Released Versions
 
+### v0.12.0 — 2026-07-18T17:20:21Z
+
+## [0.12.0](https://github.com/long-lazuli/boutikaa/compare/v0.11.0...v0.12.0) (2026-07-18)
+
+
+### Features
+
+* **closure:** make the archived sales journal immutable (5-2j) ([5b0fea5](https://github.com/long-lazuli/boutikaa/commit/5b0fea5408a4d954d6f40e666a5ea3dcf5459134))
+* **closure:** reconnect the aggregate month-closing flow with batch export (5-4b) ([2a13dd2](https://github.com/long-lazuli/boutikaa/commit/2a13dd24dbd6e4408e9071b1176deedb13518b32))
+* **closure:** settlement-round checklist and per-consignor invoices tab (13-3) ([3da97a7](https://github.com/long-lazuli/boutikaa/commit/3da97a76fa32c3a85dac47ed191950c7531e2ea0))
+* **consignors:** nested consignor space with collection and cross-screen bridges (13-2) ([753ff65](https://github.com/long-lazuli/boutikaa/commit/753ff658c4779f1767c264116cae00fe9fc09668))
+* **counter:** loader while validating, fail-closed error boundary on /counter (13-7) ([0d3772e](https://github.com/long-lazuli/boutikaa/commit/0d3772e5a1060f14278844fd9344a196dd689c55))
+* **counter:** reset catalog search when the selected consignor changes ([980db66](https://github.com/long-lazuli/boutikaa/commit/980db66ad5f78c667a04ebf2f31f8087ecc54a36))
+* **counter:** share the consignor filter between the register and management via the URL (13-6) ([9f79666](https://github.com/long-lazuli/boutikaa/commit/9f7966661f8e9cf7ba16a9a5ceb4ee53290917be))
+* **counter:** show payment-correction mention on screen and printed ticket ([92446aa](https://github.com/long-lazuli/boutikaa/commit/92446aa8f63372821284d5a19c6da3914e11d958))
+* **invoicing:** freeze the legal basis to mandataire on documents (5-2h) ([8410a0b](https://github.com/long-lazuli/boutikaa/commit/8410a0b422257879d3a868477804e0cac05e7de3))
+* **nav:** group management views under a 3-entry nav with consignor deep-links (13-1) ([7ae45bb](https://github.com/long-lazuli/boutikaa/commit/7ae45bb4fcf5b60e7b7d7a7efb075c2ba3e7184f))
+* **nav:** homogenize the consignor rail and surface cheque reconciliation (13-5) ([acdb8a3](https://github.com/long-lazuli/boutikaa/commit/acdb8a3fa69795a8b4c0c3407e022fd703daf726))
+* **nav:** replace nested consignor space with 4 flat filterable management views (13-4) ([fa0d349](https://github.com/long-lazuli/boutikaa/commit/fa0d34956a867379b0f7d5d49c763b5cb03b5c32))
+* **nav:** shared FloatingPane slot, Gestion view menu restyle, scrollable views ([571dcda](https://github.com/long-lazuli/boutikaa/commit/571dcda01ea04e307f44b41a53581349209665c5))
+* **receipts:** always print the consignor on the ticket (4b-6) ([42cde2b](https://github.com/long-lazuli/boutikaa/commit/42cde2bd6be7aa3e73e5c0d414ba25b3391264db))
+* **reconciliation:** all-cheques reconciliation list as a Gestion view ([2c1572c](https://github.com/long-lazuli/boutikaa/commit/2c1572c93e24a9607af9974b88e869462f0fb4e7))
+* **sales:** correct a validated sale's payment composition before closing ([1b5a019](https://github.com/long-lazuli/boutikaa/commit/1b5a019e9f1a41f2b4be9bb4eb67b833dc1ddbd4))
+* **seed:** produce real invoices through the app flow instead of placeholders (5-2k) ([b68a018](https://github.com/long-lazuli/boutikaa/commit/b68a018f2cf134f6542688234481441123524246))
+
+
+### Bug Fixes
+
+* **closure:** stop querying a degenerate month window without a register close ([e5aa788](https://github.com/long-lazuli/boutikaa/commit/e5aa788ba918db14e19fe69f9d8e8a71b8c6d9ef))
+* **consignors:** persist erasure of legal form and share capital on edit ([9bbb0df](https://github.com/long-lazuli/boutikaa/commit/9bbb0df41796d524b17b88121f2ac10a3fc825ee))
+* **invoicing:** reference the sales journal on the commission invoice (5-2i) ([cf9dc26](https://github.com/long-lazuli/boutikaa/commit/cf9dc26d6a6662129a6bed2a2160e9af76050906))
+* **settings:** add the shared CustomScrollbar to the settings page ([60081aa](https://github.com/long-lazuli/boutikaa/commit/60081aaab193b7064be41fe42d30b63f5fde6ebd))
+
+
 ### v0.11.0 — 2026-07-16T10:48:54Z
 
 ## [0.11.0](https://github.com/long-lazuli/boutikaa/compare/v0.10.0...v0.11.0) (2026-07-16)
