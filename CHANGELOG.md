@@ -2,6 +2,25 @@
 
 ## Released Versions
 
+### v0.13.0 — 2026-07-19T00:19:50Z
+
+## [0.13.0](https://github.com/long-lazuli/boutikaa/compare/v0.12.0...v0.13.0) (2026-07-18)
+
+
+### Features
+
+* **observability:** front logging with a pluggable transport and durable buffer ([33d5910](https://github.com/long-lazuli/boutikaa/commit/33d59101d4b073dd2205de26a600d394c52f3b1c))
+* **observability:** persist server logs to the dedicated tech SQLite database ([91ba1a0](https://github.com/long-lazuli/boutikaa/commit/91ba1a00b30e534c51d59cb005d4c8b1fab6d63f))
+* **observability:** structured log columns, event instrumentation, and a build canary ([7019e99](https://github.com/long-lazuli/boutikaa/commit/7019e9921846ac3cf294520e84d7fffdf3a6ec0e))
+* **payments:** merge fungible tenders at seal time; reconcilable/fungible mode axes ([c586abd](https://github.com/long-lazuli/boutikaa/commit/c586abded6292eba242c35b318ce2228a7cd62ae))
+* **sales:** show the daily revenue total in the /sales day header ([044661a](https://github.com/long-lazuli/boutikaa/commit/044661a5f81b2cf61e8a6b9e1a774d7871d94edd))
+
+
+### Bug Fixes
+
+* **ci:** avoid SIGPIPE when reading the Rust stable manifest ([12eda76](https://github.com/long-lazuli/boutikaa/commit/12eda765015c50a84f15dc96e5e11f9325b9f67c))
+
+
 ### v0.12.0 — 2026-07-18T17:20:21Z
 
 ## [0.12.0](https://github.com/long-lazuli/boutikaa/compare/v0.11.0...v0.12.0) (2026-07-18)
