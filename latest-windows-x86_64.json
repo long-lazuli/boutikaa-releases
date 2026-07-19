@@ -1,11 +1,11 @@
 {
-  "version": "0.13.0",
-  "notes": "## [0.13.0](https://github.com/long-lazuli/boutikaa/compare/v0.12.0...v0.13.0) (2026-07-18)\n\n\n### Features\n\n* **observability:** front logging with a pluggable transport and durable buffer ([33d5910](https://github.com/long-lazuli/boutikaa/commit/33d59101d4b073dd2205de26a600d394c52f3b1c))\n* **observability:** persist server logs to the dedicated tech SQLite database ([91ba1a0](https://github.com/long-lazuli/boutikaa/commit/91ba1a00b30e534c51d59cb005d4c8b1fab6d63f))\n* **observability:** structured log columns, event instrumentation, and a build canary ([7019e99](https://github.com/long-lazuli/boutikaa/commit/7019e9921846ac3cf294520e84d7fffdf3a6ec0e))\n* **payments:** merge fungible tenders at seal time; reconcilable/fungible mode axes ([c586abd](https://github.com/long-lazuli/boutikaa/commit/c586abded6292eba242c35b318ce2228a7cd62ae))\n* **sales:** show the daily revenue total in the /sales day header ([044661a](https://github.com/long-lazuli/boutikaa/commit/044661a5f81b2cf61e8a6b9e1a774d7871d94edd))\n\n\n### Bug Fixes\n\n* **ci:** avoid SIGPIPE when reading the Rust stable manifest ([12eda76](https://github.com/long-lazuli/boutikaa/commit/12eda765015c50a84f15dc96e5e11f9325b9f67c))",
-  "pub_date": "2026-07-19T00:19:07Z",
+  "version": "0.14.0",
+  "notes": "## [0.14.0](https://github.com/long-lazuli/boutikaa/compare/v0.13.0...v0.14.0) (2026-07-19)\n\n\n### Features\n\n* **sales:** restructure the day history as per-day tables with net figures ([c3f7940](https://github.com/long-lazuli/boutikaa/commit/c3f79405325173e4a40f24d80dd32361cc9802b5))",
+  "pub_date": "2026-07-19T13:33:01Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.13.0/boutikaa_0.13.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjJLdlpRRGRKTGdyTHNBNWNtRWZmOTl0bVFkQWRJdnNYOFMwTVhkVWR6dWtjMUNVSUxVd0NtcmhMNnFkdDM0UDFWMysxUDZ5SWRzVDlRU0J1Nk1mUWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDIwMzAzCWZpbGU6Ym91dGlrYWFfMC4xMy4wX3g2NC1zZXR1cC5leGUKd1lpN2NaaEN1QThsZy8zVnRFeXI5UFU2a09KZ25uS1ZVcUtTTnVaVzh2MDFZOGNtcFdka1RGbzJGdTV3cWZxd0IzSERxRlo2OVFXSGErd2ZqdmtqQ1E9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.14.0/boutikaa_0.14.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTnhNbTIwMnJyc1lNbXhRdk9acmJkMDVjREZvNW0yUERLVXRLR0g5WWV6bXFlWlMzc0pPZmhqQy9pdkFobzFyM2p0OEJaTExKYzN2THJuQmw2dlFXVUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDY3OTE1CWZpbGU6Ym91dGlrYWFfMC4xNC4wX3g2NC1zZXR1cC5leGUKdVZsRitLZ2toei82b0tEemxLUXFiSlR3dnl2YzFXTDRsSTQ1U2pzWllPMlZGUjBsQUlxNkFxTWc0eXFkK3lOU2h5ZHNVSEFjYnd5dEVjOEUvc1RVQkE9PQo="
     }
   }
 }
