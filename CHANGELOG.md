@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.14.0 — 2026-07-19T13:33:43Z
+
+## [0.14.0](https://github.com/long-lazuli/boutikaa/compare/v0.13.0...v0.14.0) (2026-07-19)
+
+
+### Features
+
+* **sales:** restructure the day history as per-day tables with net figures ([c3f7940](https://github.com/long-lazuli/boutikaa/commit/c3f79405325173e4a40f24d80dd32361cc9802b5))
+
+
 ### v0.13.0 — 2026-07-19T00:19:50Z
 
 ## [0.13.0](https://github.com/long-lazuli/boutikaa/compare/v0.12.0...v0.13.0) (2026-07-18)
