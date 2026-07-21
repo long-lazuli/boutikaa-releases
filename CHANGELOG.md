@@ -2,6 +2,22 @@
 
 ## Released Versions
 
+### v0.15.0 — 2026-07-21T00:45:03Z
+
+## [0.15.0](https://github.com/long-lazuli/boutikaa/compare/v0.14.0...v0.15.0) (2026-07-21)
+
+
+### Features
+
+* **gestion:** homogenize caisse/session totals and share a Table DS component (story 13.10) ([9a888c7](https://github.com/long-lazuli/boutikaa/commit/9a888c70ea3f2cc029122813bb144473adafc0d8))
+* **reconciliation:** payment-method left rail on the Gestion view ([8818e3b](https://github.com/long-lazuli/boutikaa/commit/8818e3b8d5d9b3f52fb7cf3f81a3f59a22c228a4))
+
+
+### Bug Fixes
+
+* **client:** make `pnpm typecheck` actually cover the ~217 test files ([99a98ef](https://github.com/long-lazuli/boutikaa/commit/99a98ef5c36c35dcda682b9feb41f8402a3e71ed))
+
+
 ### v0.14.0 — 2026-07-19T13:33:43Z
 
 ## [0.14.0](https://github.com/long-lazuli/boutikaa/compare/v0.13.0...v0.14.0) (2026-07-19)
