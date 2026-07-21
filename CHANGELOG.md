@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.16.0 — 2026-07-21T20:48:22Z
+
+## [0.16.0](https://github.com/long-lazuli/boutikaa/compare/v0.15.0...v0.16.0) (2026-07-21)
+
+
+### Features
+
+* **ticket:** show the consignor SKU on receipts and in the cart ([9472b59](https://github.com/long-lazuli/boutikaa/commit/9472b59d855ede2fc1e91810384ef58ca981ad2e))
+
+
 ### v0.15.0 — 2026-07-21T00:45:03Z
 
 ## [0.15.0](https://github.com/long-lazuli/boutikaa/compare/v0.14.0...v0.15.0) (2026-07-21)
