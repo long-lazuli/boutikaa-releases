@@ -1,11 +1,11 @@
 {
-  "version": "0.14.0",
-  "notes": "## [0.14.0](https://github.com/long-lazuli/boutikaa/compare/v0.13.0...v0.14.0) (2026-07-19)\n\n\n### Features\n\n* **sales:** restructure the day history as per-day tables with net figures ([c3f7940](https://github.com/long-lazuli/boutikaa/commit/c3f79405325173e4a40f24d80dd32361cc9802b5))",
-  "pub_date": "2026-07-19T13:33:01Z",
+  "version": "0.15.0",
+  "notes": "## [0.15.0](https://github.com/long-lazuli/boutikaa/compare/v0.14.0...v0.15.0) (2026-07-21)\n\n\n### Features\n\n* **gestion:** homogenize caisse/session totals and share a Table DS component (story 13.10) ([9a888c7](https://github.com/long-lazuli/boutikaa/commit/9a888c70ea3f2cc029122813bb144473adafc0d8))\n* **reconciliation:** payment-method left rail on the Gestion view ([8818e3b](https://github.com/long-lazuli/boutikaa/commit/8818e3b8d5d9b3f52fb7cf3f81a3f59a22c228a4))\n\n\n### Bug Fixes\n\n* **client:** make `pnpm typecheck` actually cover the ~217 test files ([99a98ef](https://github.com/long-lazuli/boutikaa/commit/99a98ef5c36c35dcda682b9feb41f8402a3e71ed))",
+  "pub_date": "2026-07-21T00:44:15Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.14.0/boutikaa_0.14.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTnhNbTIwMnJyc1lNbXhRdk9acmJkMDVjREZvNW0yUERLVXRLR0g5WWV6bXFlWlMzc0pPZmhqQy9pdkFobzFyM2p0OEJaTExKYzN2THJuQmw2dlFXVUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDY3OTE1CWZpbGU6Ym91dGlrYWFfMC4xNC4wX3g2NC1zZXR1cC5leGUKdVZsRitLZ2toei82b0tEemxLUXFiSlR3dnl2YzFXTDRsSTQ1U2pzWllPMlZGUjBsQUlxNkFxTWc0eXFkK3lOU2h5ZHNVSEFjYnd5dEVjOEUvc1RVQkE9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.15.0/boutikaa_0.15.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTnhlRW9sRERTQ2UvNHlQZG1IK1dicUVzNTBZbHZXbGxtTGZsbjhKNXFGRkRHM1YweG5KeU53Z3RldmtMZjFkYW5YMzNmNGQ3Nzh3MktuSVNUVytocEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTk0NjEwCWZpbGU6Ym91dGlrYWFfMC4xNS4wX3g2NC1zZXR1cC5leGUKb2dacWdTdXB6SmlYYUhLaDc0dmNSaEYxblN3SzNmUUlKUW5nV3BKeUtCZXVNNHZPanFpRmxTdjRYSFJ2R1hWNTFmUWlQcjQxTkNsVU83cmhjdEtRQnc9PQo="
     }
   }
 }
