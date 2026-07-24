@@ -2,6 +2,30 @@
 
 ## Released Versions
 
+### v0.17.0 — 2026-07-24T09:33:53Z
+
+## [0.17.0](https://github.com/long-lazuli/boutikaa/compare/v0.16.0...v0.17.0) (2026-07-24)
+
+
+### Features
+
+* **closure:** annual closure (year-end summary + sealed YearClosed event) ([26226bd](https://github.com/long-lazuli/boutikaa/commit/26226bd042338f732d1c1cda516107c598f36cfa))
+* **closure:** bulk statement emails with offline-safe queue (Story 5.3) ([9bf2bce](https://github.com/long-lazuli/boutikaa/commit/9bf2bce8aaa125069f67eeba0f41270d931f0871))
+* **closure:** decouple period end from invoice validation (13.13) ([1053787](https://github.com/long-lazuli/boutikaa/commit/1053787ecef2f12a8717fa9b26c88ff0ef4c81b8))
+* **closure:** pre-seal invoice preview, read-only (5-2m) ([a4cc2c0](https://github.com/long-lazuli/boutikaa/commit/a4cc2c00a0341ef92d24b03e52c0e4b9253d05d5))
+* **closure:** regenerate the sales journal on demand, drop PDF archiving (5-2l) ([85f0a6c](https://github.com/long-lazuli/boutikaa/commit/85f0a6c47290e691348a0b40eb865c830d8ebf1f))
+* **closure:** reverse MonthClosure stacking to exclusive toggle, drop useChainedPrint (13-11) ([582a73a](https://github.com/long-lazuli/boutikaa/commit/582a73a54199d9670e2cf18811b96fac44f98ce8))
+* **documents:** add react-pdf-html-renderer package (5.2d) ([1e530a7](https://github.com/long-lazuli/boutikaa/commit/1e530a785103f03c8600771c0f5bfa3c448a30e9))
+* **documents:** move PDF generation to a second Vite build target (5.2d-bis) ([c869565](https://github.com/long-lazuli/boutikaa/commit/c8695653c0c95d600c1384eeeb7237a0f385c1a5))
+
+
+### Bug Fixes
+
+* **closure:** guarantee APERÇU watermark, fix broken iframe scroll (13-12) ([9ca9134](https://github.com/long-lazuli/boutikaa/commit/9ca9134d2928d6045d6ee700d9b00d61797b0e74))
+* **react-pdf-html-renderer:** default border-style to solid so borders actually render ([bd8246e](https://github.com/long-lazuli/boutikaa/commit/bd8246e98a5f0af1219a37fc10baedcdbb1a9263))
+* **react-pdf-html-renderer:** preserve pale watermark/total-band colors in print ([c0482cb](https://github.com/long-lazuli/boutikaa/commit/c0482cb32134620bc06a47dc784c3641444b0bd1))
+
+
 ### v0.16.0 — 2026-07-21T20:48:22Z
 
 ## [0.16.0](https://github.com/long-lazuli/boutikaa/compare/v0.15.0...v0.16.0) (2026-07-21)
