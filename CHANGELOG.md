@@ -2,6 +2,18 @@
 
 ## Released Versions
 
+### v0.17.1 — 2026-07-24T19:35:03Z
+
+## [0.17.1](https://github.com/long-lazuli/boutikaa/compare/v0.17.0...v0.17.1) (2026-07-24)
+
+
+### Bug Fixes
+
+* **closure:** re-capture the register-totals snapshot on every entry ([585a9f4](https://github.com/long-lazuli/boutikaa/commit/585a9f4e086c4da40d1fab6d0366a3cfac0d03bd))
+* **invoice:** flatten multi-line shop address to keep the commission invoice PDF/A-3 conform ([677203e](https://github.com/long-lazuli/boutikaa/commit/677203e86aaf5dab7e5b419f22a7f9e6c594fb81))
+* **retro:** correct stale "uncommitted" claim on observability/backup stories ([4e83d32](https://github.com/long-lazuli/boutikaa/commit/4e83d324757a7ff0af3a6cfe37498f9c829dc095))
+
+
 ### v0.17.0 — 2026-07-24T09:33:53Z
 
 ## [0.17.0](https://github.com/long-lazuli/boutikaa/compare/v0.16.0...v0.17.0) (2026-07-24)
