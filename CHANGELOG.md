@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.18.0 — 2026-07-25T15:59:08Z
+
+## [0.18.0](https://github.com/long-lazuli/boutikaa/compare/v0.17.1...v0.18.0) (2026-07-25)
+
+
+### Features
+
+* **closure:** sort monthly consignor totals alphabetically by name ([89931ea](https://github.com/long-lazuli/boutikaa/commit/89931ea3100dc38816101f0c8db1c66dbd067e0c))
+
+
 ### v0.17.1 — 2026-07-24T19:35:03Z
 
 ## [0.17.1](https://github.com/long-lazuli/boutikaa/compare/v0.17.0...v0.17.1) (2026-07-24)
