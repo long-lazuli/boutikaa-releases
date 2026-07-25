@@ -1,11 +1,11 @@
 {
-  "version": "0.17.1",
-  "notes": "## [0.17.1](https://github.com/long-lazuli/boutikaa/compare/v0.17.0...v0.17.1) (2026-07-24)\n\n\n### Bug Fixes\n\n* **closure:** re-capture the register-totals snapshot on every entry ([585a9f4](https://github.com/long-lazuli/boutikaa/commit/585a9f4e086c4da40d1fab6d0366a3cfac0d03bd))\n* **invoice:** flatten multi-line shop address to keep the commission invoice PDF/A-3 conform ([677203e](https://github.com/long-lazuli/boutikaa/commit/677203e86aaf5dab7e5b419f22a7f9e6c594fb81))\n* **retro:** correct stale \"uncommitted\" claim on observability/backup stories ([4e83d32](https://github.com/long-lazuli/boutikaa/commit/4e83d324757a7ff0af3a6cfe37498f9c829dc095))",
-  "pub_date": "2026-07-24T19:34:21Z",
+  "version": "0.18.0",
+  "notes": "## [0.18.0](https://github.com/long-lazuli/boutikaa/compare/v0.17.1...v0.18.0) (2026-07-25)\n\n\n### Features\n\n* **closure:** sort monthly consignor totals alphabetically by name ([89931ea](https://github.com/long-lazuli/boutikaa/commit/89931ea3100dc38816101f0c8db1c66dbd067e0c))",
+  "pub_date": "2026-07-25T15:58:17Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.17.1/boutikaa_0.17.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjNhWlZ0NjFBR2VBY0czVElmWFpmVjRGR29LZERnVzZkNWRxN2dnOFcyWEpOazl1eXJlaTI5R0pnSlh0dmVtSHh2NmQxamd4TkwzYklpN3BzV2tnNFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTIxNjA5CWZpbGU6Ym91dGlrYWFfMC4xNy4xX3g2NC1zZXR1cC5leGUKSTdnRHV6QUxBbThrNFAyTWtwMFA3dDNLeUxjY2pwamc5SlpIYmg3UUplelJsbXArbkc0REVFNncrZDhIUjVKakFmVjlBQWs3MjR6TWZBRm96Q0lnQkE9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.18.0/boutikaa_0.18.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjA3NUNlcWhOS1p0eEFCbEZ5cTl2MTlaMXFlSFFnL3RqWTB3aXN5bnhJSUxmTGhqSjZDbTYwS3drSEwwS0JvRlVCWEdudzU3L3V1WjZIYW4xQUk5amdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTk1MDUwCWZpbGU6Ym91dGlrYWFfMC4xOC4wX3g2NC1zZXR1cC5leGUKcGUwNGl2N2RINlZ5SkhXcjRjOXpqMGtPWjVRWWVoV0JjUGdYb0gvK29lRlM0dzFZUkF1WVNPaVlmN1JWcEtDVEtvYVh6TGwzSUk1cnpJcGFqZW1IQkE9PQo="
     }
   }
 }
