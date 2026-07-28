@@ -2,6 +2,26 @@
 
 ## Released Versions
 
+### v0.19.0 — 2026-07-28T04:54:08Z
+
+## [0.19.0](https://github.com/long-lazuli/boutikaa/compare/v0.18.0...v0.19.0) (2026-07-28)
+
+
+### Features
+
+* **management-nav:** move Réconciliation tab to 2nd position (13-14) ([2a2aab3](https://github.com/long-lazuli/boutikaa/commit/2a2aab32df6d36fcda31b55262960285dbd99728))
+* **reconciliation:** manual multi-mode pointing ledger for cards (9-7a) ([9e209fd](https://github.com/long-lazuli/boutikaa/commit/9e209fd0d77abd904a9aeb886c5ec3219bc4ad81))
+* **reconciliation:** unified "Tous" pointing ledger + compact sales footer (13-17) ([406ffd6](https://github.com/long-lazuli/boutikaa/commit/406ffd6266355c248a7396625d44d853f08985b1))
+* **sales,reconciliation:** cross-links between sales and pointing (13-16) ([ed9fd7c](https://github.com/long-lazuli/boutikaa/commit/ed9fd7c5c42d3062c0d7fb28cac6393f77b30250))
+* **sales,reconciliation:** unify mode label, double-click to reconcile, footer polish (13-18) ([aa51563](https://github.com/long-lazuli/boutikaa/commit/aa515630ebf603c220ffd4a4ab6ce513295f8a3d))
+* **sales:** per-payment-mode totals in the day footer (13-15) ([80fe3a0](https://github.com/long-lazuli/boutikaa/commit/80fe3a0be94a4018ae8d54e12ee9d2a48fea9011))
+
+
+### Bug Fixes
+
+* **ci:** green the Tests and Playwright gates after the reconciliation batch ([a30c4da](https://github.com/long-lazuli/boutikaa/commit/a30c4da31f70c30063d4c93593ca9db56d9bbe7e))
+
+
 ### v0.18.0 — 2026-07-25T15:59:08Z
 
 ## [0.18.0](https://github.com/long-lazuli/boutikaa/compare/v0.17.1...v0.18.0) (2026-07-25)
