@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.20.0 — 2026-07-30T02:42:02Z
+
+## [0.20.0](https://github.com/long-lazuli/boutikaa/compare/v0.19.0...v0.20.0) (2026-07-30)
+
+
+### Features
+
+* **stock:** explicit is_unique flag, convertible unique &lt;-&gt; series ([bbb0ee1](https://github.com/long-lazuli/boutikaa/commit/bbb0ee13a742c193eaea65fb24ebfd0eec568221))
+
+
 ### v0.19.0 — 2026-07-28T04:54:08Z
 
 ## [0.19.0](https://github.com/long-lazuli/boutikaa/compare/v0.18.0...v0.19.0) (2026-07-28)
