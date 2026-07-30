@@ -1,11 +1,11 @@
 {
-  "version": "0.20.0",
-  "notes": "## [0.20.0](https://github.com/long-lazuli/boutikaa/compare/v0.19.0...v0.20.0) (2026-07-30)\n\n\n### Features\n\n* **stock:** explicit is_unique flag, convertible unique &lt;-&gt; series ([bbb0ee1](https://github.com/long-lazuli/boutikaa/commit/bbb0ee13a742c193eaea65fb24ebfd0eec568221))",
-  "pub_date": "2026-07-30T02:41:12Z",
+  "version": "0.21.0",
+  "notes": "## [0.21.0](https://github.com/long-lazuli/boutikaa/compare/v0.20.0...v0.21.0) (2026-07-30)\n\n\n### Features\n\n* **closure:** add net item count to the monthly shop synthesis ([59de256](https://github.com/long-lazuli/boutikaa/commit/59de256b55271a9ff4589142eae13967a50e4843))",
+  "pub_date": "2026-07-30T14:26:20Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.20.0/boutikaa_0.20.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjRoOFRBaEVuSW5UUFFMU3lXSlVjc0t0Znd6TFprS2tFeGdDSXBkYnhEajAzem9aaFZSWnVqU1JwdXBuTXJKWTBuL1R0VzhIV3FuQ25hZjN2cjhJTnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzc5MjE2CWZpbGU6Ym91dGlrYWFfMC4yMC4wX3g2NC1zZXR1cC5leGUKcDZJb0R1QUZRcFR0L3B2N0JPWWdFVDJVZjJTR3hTZUtZbVM5Q3E1Q044R3FYR1VRTGVmalV3WFBuMUhnanhpYnRoN3RPMkRMTCtVT0I0d1ZPVGJvQ2c9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.21.0/boutikaa_0.21.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTndzTXdvYmY0WnBWcnhzbUtpeCtNSWlzVkRiY3lGV3Vvb2RtRU1IcHdPdE9wSy9rZlhQUjdTQmgyQ1J2QzlhYW1oZW03Z0xyTkRrRVN5dlVlMXArU0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDIxNTI2CWZpbGU6Ym91dGlrYWFfMC4yMS4wX3g2NC1zZXR1cC5leGUKU2NTNTA4SnNhVVBiTlFqLzBZVDl4dzhaaHJucG5EZjZDNzgyRGlqb1dsRGhUUmFKbnVteFNHeC91MlVNOUZVdk5PcmM0cEt0ZkJSTFBnN25nMEFtQVE9PQo="
     }
   }
 }
