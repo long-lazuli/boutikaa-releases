@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.21.0 — 2026-07-30T14:27:09Z
+
+## [0.21.0](https://github.com/long-lazuli/boutikaa/compare/v0.20.0...v0.21.0) (2026-07-30)
+
+
+### Features
+
+* **closure:** add net item count to the monthly shop synthesis ([59de256](https://github.com/long-lazuli/boutikaa/commit/59de256b55271a9ff4589142eae13967a50e4843))
+
+
 ### v0.20.0 — 2026-07-30T02:42:02Z
 
 ## [0.20.0](https://github.com/long-lazuli/boutikaa/compare/v0.19.0...v0.20.0) (2026-07-30)
