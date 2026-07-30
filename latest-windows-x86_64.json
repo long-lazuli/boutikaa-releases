@@ -1,11 +1,11 @@
 {
-  "version": "0.19.0",
-  "notes": "## [0.19.0](https://github.com/long-lazuli/boutikaa/compare/v0.18.0...v0.19.0) (2026-07-28)\n\n\n### Features\n\n* **management-nav:** move Réconciliation tab to 2nd position (13-14) ([2a2aab3](https://github.com/long-lazuli/boutikaa/commit/2a2aab32df6d36fcda31b55262960285dbd99728))\n* **reconciliation:** manual multi-mode pointing ledger for cards (9-7a) ([9e209fd](https://github.com/long-lazuli/boutikaa/commit/9e209fd0d77abd904a9aeb886c5ec3219bc4ad81))\n* **reconciliation:** unified \"Tous\" pointing ledger + compact sales footer (13-17) ([406ffd6](https://github.com/long-lazuli/boutikaa/commit/406ffd6266355c248a7396625d44d853f08985b1))\n* **sales,reconciliation:** cross-links between sales and pointing (13-16) ([ed9fd7c](https://github.com/long-lazuli/boutikaa/commit/ed9fd7c5c42d3062c0d7fb28cac6393f77b30250))\n* **sales,reconciliation:** unify mode label, double-click to reconcile, footer polish (13-18) ([aa51563](https://github.com/long-lazuli/boutikaa/commit/aa515630ebf603c220ffd4a4ab6ce513295f8a3d))\n* **sales:** per-payment-mode totals in the day footer (13-15) ([80fe3a0](https://github.com/long-lazuli/boutikaa/commit/80fe3a0be94a4018ae8d54e12ee9d2a48fea9011))\n\n\n### Bug Fixes\n\n* **ci:** green the Tests and Playwright gates after the reconciliation batch ([a30c4da](https://github.com/long-lazuli/boutikaa/commit/a30c4da31f70c30063d4c93593ca9db56d9bbe7e))",
-  "pub_date": "2026-07-28T04:53:25Z",
+  "version": "0.20.0",
+  "notes": "## [0.20.0](https://github.com/long-lazuli/boutikaa/compare/v0.19.0...v0.20.0) (2026-07-30)\n\n\n### Features\n\n* **stock:** explicit is_unique flag, convertible unique &lt;-&gt; series ([bbb0ee1](https://github.com/long-lazuli/boutikaa/commit/bbb0ee13a742c193eaea65fb24ebfd0eec568221))",
+  "pub_date": "2026-07-30T02:41:12Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.19.0/boutikaa_0.19.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTnh2K3B4YkNLQTlUVFZEa1NXcWwya2xGL0orM1lYck5SbmlLQmszQnArZnZLWHVRSFBrb09FZ1orRGFmd2Zha05Ub1VHdEYyQnFCRUdldkFLcFM3OFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjE0MzYxCWZpbGU6Ym91dGlrYWFfMC4xOS4wX3g2NC1zZXR1cC5leGUKK2llenpFVFJKNFNTRmxHM1NWUHpuOHp2QU5abGxmd3FHT1R3dGFEUWNvTUdralNXaEw5T2JKa2d3bDh3ZlBOQzJHUGNTbVFCeGJoejhndTJWOUJFQ3c9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.20.0/boutikaa_0.20.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjRoOFRBaEVuSW5UUFFMU3lXSlVjc0t0Znd6TFprS2tFeGdDSXBkYnhEajAzem9aaFZSWnVqU1JwdXBuTXJKWTBuL1R0VzhIV3FuQ25hZjN2cjhJTnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzc5MjE2CWZpbGU6Ym91dGlrYWFfMC4yMC4wX3g2NC1zZXR1cC5leGUKcDZJb0R1QUZRcFR0L3B2N0JPWWdFVDJVZjJTR3hTZUtZbVM5Q3E1Q044R3FYR1VRTGVmalV3WFBuMUhnanhpYnRoN3RPMkRMTCtVT0I0d1ZPVGJvQ2c9PQo="
     }
   }
 }
