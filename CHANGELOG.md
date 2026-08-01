@@ -2,6 +2,24 @@
 
 ## Released Versions
 
+### v0.22.0 — 2026-08-01T00:56:28Z
+
+## [0.22.0](https://github.com/long-lazuli/boutikaa/compare/v0.21.0...v0.22.0) (2026-08-01)
+
+
+### Features
+
+* **closure:** auto-seal past months, drop the manual monthly-closing FSM ([87e5b1d](https://github.com/long-lazuli/boutikaa/commit/87e5b1d7a80b9d5df330a0b5af2bfd62a55193e8))
+* **closure:** gate month sealing on every consignor invoice being validated ([d39d589](https://github.com/long-lazuli/boutikaa/commit/d39d589b30389dee12f435882e7647463ee70c6d))
+* **closure:** inline printable monthly report with in-frame navigation ([fb84d69](https://github.com/long-lazuli/boutikaa/commit/fb84d691f4d0f26f535837cbb08cad67d551f70e))
+
+
+### Bug Fixes
+
+* **closure:** keep the current month's just-started billing period ([d4d5b0d](https://github.com/long-lazuli/boutikaa/commit/d4d5b0d88e734b21d5dd1c8b9d4c36a9893097ff))
+* **closure:** tidy monthly view + persist dev-server logs to the DB ([6a17eff](https://github.com/long-lazuli/boutikaa/commit/6a17efff7d7639d5f6abf186a0fe3817fee91e67))
+
+
 ### v0.21.0 — 2026-07-30T14:27:09Z
 
 ## [0.21.0](https://github.com/long-lazuli/boutikaa/compare/v0.20.0...v0.21.0) (2026-07-30)
