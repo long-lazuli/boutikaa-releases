@@ -2,6 +2,23 @@
 
 ## Released Versions
 
+### v0.23.0 — 2026-08-02T07:13:06Z
+
+## [0.23.0](https://github.com/long-lazuli/boutikaa/compare/v0.22.0...v0.23.0) (2026-08-02)
+
+
+### Features
+
+* **closure:** name every document by one rule, add the month archive ([837361d](https://github.com/long-lazuli/boutikaa/commit/837361d0e5bd5f859c0a581c9a8da78f41426758))
+* **settings:** let the shop choose its document filename prefix ([8e68d27](https://github.com/long-lazuli/boutikaa/commit/8e68d271bc7f0700cbb9d96d78da33a3efc74376))
+
+
+### Bug Fixes
+
+* **client:** rebuild the PDF renderer when its sources change ([e27e85f](https://github.com/long-lazuli/boutikaa/commit/e27e85fb00378a03de7f5a1ca2c4bb2ff6d39be8))
+* **documents:** sanitize document text fields at input to keep PDF/A-3 valid ([a0aa168](https://github.com/long-lazuli/boutikaa/commit/a0aa168608e5ac01dd7ef72d8a18882761ee63b3))
+
+
 ### v0.22.0 — 2026-08-01T00:56:28Z
 
 ## [0.22.0](https://github.com/long-lazuli/boutikaa/compare/v0.21.0...v0.22.0) (2026-08-01)
