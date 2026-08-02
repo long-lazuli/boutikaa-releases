@@ -1,11 +1,11 @@
 {
-  "version": "0.22.0",
-  "notes": "## [0.22.0](https://github.com/long-lazuli/boutikaa/compare/v0.21.0...v0.22.0) (2026-08-01)\n\n\n### Features\n\n* **closure:** auto-seal past months, drop the manual monthly-closing FSM ([87e5b1d](https://github.com/long-lazuli/boutikaa/commit/87e5b1d7a80b9d5df330a0b5af2bfd62a55193e8))\n* **closure:** gate month sealing on every consignor invoice being validated ([d39d589](https://github.com/long-lazuli/boutikaa/commit/d39d589b30389dee12f435882e7647463ee70c6d))\n* **closure:** inline printable monthly report with in-frame navigation ([fb84d69](https://github.com/long-lazuli/boutikaa/commit/fb84d691f4d0f26f535837cbb08cad67d551f70e))\n\n\n### Bug Fixes\n\n* **closure:** keep the current month's just-started billing period ([d4d5b0d](https://github.com/long-lazuli/boutikaa/commit/d4d5b0d88e734b21d5dd1c8b9d4c36a9893097ff))\n* **closure:** tidy monthly view + persist dev-server logs to the DB ([6a17eff](https://github.com/long-lazuli/boutikaa/commit/6a17efff7d7639d5f6abf186a0fe3817fee91e67))",
-  "pub_date": "2026-08-01T00:55:33Z",
+  "version": "0.23.0",
+  "notes": "## [0.23.0](https://github.com/long-lazuli/boutikaa/compare/v0.22.0...v0.23.0) (2026-08-02)\n\n\n### Features\n\n* **closure:** name every document by one rule, add the month archive ([837361d](https://github.com/long-lazuli/boutikaa/commit/837361d0e5bd5f859c0a581c9a8da78f41426758))\n* **settings:** let the shop choose its document filename prefix ([8e68d27](https://github.com/long-lazuli/boutikaa/commit/8e68d271bc7f0700cbb9d96d78da33a3efc74376))\n\n\n### Bug Fixes\n\n* **client:** rebuild the PDF renderer when its sources change ([e27e85f](https://github.com/long-lazuli/boutikaa/commit/e27e85fb00378a03de7f5a1ca2c4bb2ff6d39be8))\n* **documents:** sanitize document text fields at input to keep PDF/A-3 valid ([a0aa168](https://github.com/long-lazuli/boutikaa/commit/a0aa168608e5ac01dd7ef72d8a18882761ee63b3))",
+  "pub_date": "2026-08-02T07:11:56Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.22.0/boutikaa_0.22.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjhGWmIzaDVJZ1RRZFBLT0NJTENEdkFIeWhBNHd2cnU1NzZpRUZmajhJdGdaaDk2bVFiMlQ0MUdQQWhSdzUyVk1zRndHKzlHUElXQlpzL3hDbXFLemdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NTQ1Njg4CWZpbGU6Ym91dGlrYWFfMC4yMi4wX3g2NC1zZXR1cC5leGUKdDRyYWhuK2hnTnp2Zmp6bXZnVlNEL2VsQTRVSTU3ZVdqcS9WT0pRakwxLzFiWnl0ZS95Ukh6QnJQVkNJbUtvcnhObWFTN1ltaDVyNEJ1d0ZGTlJpRHc9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.23.0/boutikaa_0.23.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjgxSm96ek5tRnBEQldHL2loT1VNbWlBeElYa0hmL0RDMUtKa29qbE93Z3Q2czRiaHZYMTJWN3p3ZTcvQTVORmtNYkQ5bjVNa1dha3QzRWIvcTBSMHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjU0NjgxCWZpbGU6Ym91dGlrYWFfMC4yMy4wX3g2NC1zZXR1cC5leGUKcm5xSlo5MDM0MTFSa2RVOUJOR09WUDVmaDdOeldHMzBaU0swUXdCei9YVVhDUnE4bXJHQnVtRlBFWHhlT0tEbHJaNE5WRWpFeGhhYkhNVFYxK2x3Q1E9PQo="
     }
   }
 }
