@@ -2,6 +2,18 @@
 
 ## Released Versions
 
+### v0.24.0 — 2026-08-03T15:59:51Z
+
+## [0.24.0](https://github.com/long-lazuli/boutikaa/compare/v0.23.0...v0.24.0) (2026-08-03)
+
+
+### Features
+
+* **reconciliation:** let the shop choose which payment methods it verifies ([00fc9d0](https://github.com/long-lazuli/boutikaa/commit/00fc9d06679961a0d8a92edd127f33be001576e5))
+* **settings:** one dropdown for the document file-name segment order ([2020cda](https://github.com/long-lazuli/boutikaa/commit/2020cda54ae5bfac54dab4bafedab56c8c28c4ce))
+* **settings:** shop-slug file-name position + rename file_prefix to shop_slug ([0128416](https://github.com/long-lazuli/boutikaa/commit/01284164765acbec96e858af0af073b6cd520201))
+
+
 ### v0.23.0 — 2026-08-02T07:13:06Z
 
 ## [0.23.0](https://github.com/long-lazuli/boutikaa/compare/v0.22.0...v0.23.0) (2026-08-02)
