@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.26.0 — 2026-08-04T11:50:56Z
+
+## [0.26.0](https://github.com/long-lazuli/boutikaa/compare/v0.25.0...v0.26.0) (2026-08-04)
+
+
+### Features
+
+* **reconciliation:** a padlock per day and column, to freeze a finished pass ([f298f52](https://github.com/long-lazuli/boutikaa/commit/f298f52b40281950d269f3d454ade5b91e6115a2))
+
+
 ### v0.25.0 — 2026-08-04T00:07:25Z
 
 ## [0.25.0](https://github.com/long-lazuli/boutikaa/compare/v0.24.0...v0.25.0) (2026-08-03)
