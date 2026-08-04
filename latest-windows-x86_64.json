@@ -1,11 +1,11 @@
 {
-  "version": "0.24.0",
-  "notes": "## [0.24.0](https://github.com/long-lazuli/boutikaa/compare/v0.23.0...v0.24.0) (2026-08-03)\n\n\n### Features\n\n* **reconciliation:** let the shop choose which payment methods it verifies ([00fc9d0](https://github.com/long-lazuli/boutikaa/commit/00fc9d06679961a0d8a92edd127f33be001576e5))\n* **settings:** one dropdown for the document file-name segment order ([2020cda](https://github.com/long-lazuli/boutikaa/commit/2020cda54ae5bfac54dab4bafedab56c8c28c4ce))\n* **settings:** shop-slug file-name position + rename file_prefix to shop_slug ([0128416](https://github.com/long-lazuli/boutikaa/commit/01284164765acbec96e858af0af073b6cd520201))",
-  "pub_date": "2026-08-03T15:58:32Z",
+  "version": "0.25.0",
+  "notes": "## [0.25.0](https://github.com/long-lazuli/boutikaa/compare/v0.24.0...v0.25.0) (2026-08-03)\n\n\n### Features\n\n* **reconciliation:** name your pointing columns, one tick box each ([21236db](https://github.com/long-lazuli/boutikaa/commit/21236db977ece842b1178b23daae0dc1c8335986))\n* **reconciliation:** tristate \"point all\" per day in the shared ledger ([d2963b7](https://github.com/long-lazuli/boutikaa/commit/d2963b7dbdb3e4f66330e34f7337badd2a1a73c1))\n* **settings:** show translated braced tokens in the order dropdown ([35775cc](https://github.com/long-lazuli/boutikaa/commit/35775cc41b93d0043457fa137404c820bf949d62))\n\n\n### Bug Fixes\n\n* **ci:** allowlist DocumentSegmentDto in the deny-unknown-fields lint, rustfmt ([e57db32](https://github.com/long-lazuli/boutikaa/commit/e57db327e54a469e9a8419ccee35f3251c0532fd))\n* **settings:** name both lists of the payment section, complete the e2e payload ([781f7fd](https://github.com/long-lazuli/boutikaa/commit/781f7fd895d074e913d62cf13e607047c6d0f8b0))",
+  "pub_date": "2026-08-04T00:06:12Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.24.0/boutikaa_0.24.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjBnZEpKN01tQmpHdkc0RlpaMUpvTC9QYnlreHFBVS9vbjkvY3FueFZGZ2xBc2t6aC9kOHpuSUg5TXhib2FkTTBaNFJTd1hwQXRvbGJjZGt3ZFVUendrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzcyNjMxCWZpbGU6Ym91dGlrYWFfMC4yNC4wX3g2NC1zZXR1cC5leGUKZ1dRNG93ZmNRbHZKbHBmWHhPOHRFMmpPSzZ5dnRJK2gwZ1BRMmR4N0pyd2ZJVVpVWjZ3eGpvS3BXQ2Ixbno3V1NtNzlsamI2cGp1ZGc5Y0l3REFBQ3c9PQo="
+      "url": "https://raw.githubusercontent.com/long-lazuli/boutikaa-builds/main/v0.25.0/boutikaa_0.25.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkRrY05EeHpnTjdkY0lpeTZ1ckxBR3VpZHZGVG1QNGtobnpSNmNyWHFKTlhHQ0RUT2ZJVWtBcmFoWC9NVndYcGRBc1RMUW1DS29sSDFqSUdUcWMwMHhTZUZUdHlpakFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODAxOTE5CWZpbGU6Ym91dGlrYWFfMC4yNS4wX3g2NC1zZXR1cC5leGUKNXFsTW9mVyttU1NPd1hCdXc2N0U0c21hUG5YMTZuWHJsUTZENDFDVThCRkhVUHhVOTByOFBHd080UWc3LzRtNTcrVjJqMEkzSVpZU213ZmcxeHQ4RGc9PQo="
     }
   }
 }
