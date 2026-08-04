@@ -2,6 +2,24 @@
 
 ## Released Versions
 
+### v0.25.0 — 2026-08-04T00:07:25Z
+
+## [0.25.0](https://github.com/long-lazuli/boutikaa/compare/v0.24.0...v0.25.0) (2026-08-03)
+
+
+### Features
+
+* **reconciliation:** name your pointing columns, one tick box each ([21236db](https://github.com/long-lazuli/boutikaa/commit/21236db977ece842b1178b23daae0dc1c8335986))
+* **reconciliation:** tristate "point all" per day in the shared ledger ([d2963b7](https://github.com/long-lazuli/boutikaa/commit/d2963b7dbdb3e4f66330e34f7337badd2a1a73c1))
+* **settings:** show translated braced tokens in the order dropdown ([35775cc](https://github.com/long-lazuli/boutikaa/commit/35775cc41b93d0043457fa137404c820bf949d62))
+
+
+### Bug Fixes
+
+* **ci:** allowlist DocumentSegmentDto in the deny-unknown-fields lint, rustfmt ([e57db32](https://github.com/long-lazuli/boutikaa/commit/e57db327e54a469e9a8419ccee35f3251c0532fd))
+* **settings:** name both lists of the payment section, complete the e2e payload ([781f7fd](https://github.com/long-lazuli/boutikaa/commit/781f7fd895d074e913d62cf13e607047c6d0f8b0))
+
+
 ### v0.24.0 — 2026-08-03T15:59:51Z
 
 ## [0.24.0](https://github.com/long-lazuli/boutikaa/compare/v0.23.0...v0.24.0) (2026-08-03)
