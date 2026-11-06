@@ -2,6 +2,30 @@
 
 ## Released Versions
 
+### v0.27.0 — 2026-11-06T17:44:21Z
+
+## [0.27.0](https://github.com/long-lazuli/boutikaa/compare/v0.26.0...v0.27.0) (2026-11-06)
+
+
+### Features
+
+* **counter:** print the mandatary notice on the register ticket ([502da15](https://github.com/long-lazuli/boutikaa/commit/502da15d00c44fe9459d5d447552217ad4976898))
+* **documents:** add printable purchase order for order deposits ([b753311](https://github.com/long-lazuli/boutikaa/commit/b7533110d3aa5bf0a5b8a2bc7a9050cd29137ef9))
+* **orders:** hide custom orders behind a build flag until the series ships ([88dab93](https://github.com/long-lazuli/boutikaa/commit/88dab9320a808396e6ef2e78f34d87ce2ce5ee6e))
+* **orders:** let a sale settle a custom order and consume its deposit ([45a0134](https://github.com/long-lazuli/boutikaa/commit/45a0134b86e06c6fd2a6a91bea5ce90f6b6848a1))
+* **orders:** make custom orders and deposits usable from the register ([f219338](https://github.com/long-lazuli/boutikaa/commit/f219338764a7d416cee236fcb6b61a2d2ac3461b))
+* **orders:** record deposits on made-to-order commissions ([9edcb8b](https://github.com/long-lazuli/boutikaa/commit/9edcb8bb843e6ab59b34df0ef70a41e5953c443e))
+* **orders:** reopen a custom order when its delivery sale is cancelled ([ef6b8dd](https://github.com/long-lazuli/boutikaa/commit/ef6b8dd0508521bd1dd1574459a1eb256c9deb2b))
+* **process:** one skill to run the whole story chain through subagents ([c31a291](https://github.com/long-lazuli/boutikaa/commit/c31a2910738e4af97928318221d07dda2bc155cd))
+* **settings:** add configurable document mentions (CGV + deposit clause) ([149971e](https://github.com/long-lazuli/boutikaa/commit/149971e845866b1f707958bc13e46706c1eb8d36))
+
+
+### Bug Fixes
+
+* **sales:** open a deep-linked sale even outside the history window ([9e216bd](https://github.com/long-lazuli/boutikaa/commit/9e216bd9cdd56cd5f8f7ea866ff2d84f5067d4f7))
+* **seed:** stop the demo credit classification from reading the clock ([7f8444a](https://github.com/long-lazuli/boutikaa/commit/7f8444a08d22dab2c6057ce8d7ff137a96fe968c))
+
+
 ### v0.26.0 — 2026-08-04T11:50:56Z
 
 ## [0.26.0](https://github.com/long-lazuli/boutikaa/compare/v0.25.0...v0.26.0) (2026-08-04)
