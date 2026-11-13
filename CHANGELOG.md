@@ -2,6 +2,24 @@
 
 ## Released Versions
 
+### v0.28.0 — 2026-11-13T09:51:31Z
+
+## [0.28.0](https://github.com/long-lazuli/boutikaa/compare/v0.27.0...v0.28.0) (2026-11-13)
+
+
+### Features
+
+* **backup:** add manual backup to an external disk and a stale-backup warning ([e63b327](https://github.com/long-lazuli/boutikaa/commit/e63b327f8b7860a6ec15c020657944c997a17a43))
+* **orders:** correct a custom order entered by mistake and refund the deposit ([2e77c6c](https://github.com/long-lazuli/boutikaa/commit/2e77c6c5067406dae935f1c363e6b1ebbbafbc1d))
+* **orders:** reopen a custom order when a return empties its delivery sale ([ef53436](https://github.com/long-lazuli/boutikaa/commit/ef53436bcc1ddcf4ab563a7c60abb1c8f64521f3))
+
+
+### Bug Fixes
+
+* **orders:** keep fiscal literals out of the cart command comment ([d92db8f](https://github.com/long-lazuli/boutikaa/commit/d92db8f3b67dd89c5f42208cf365dfa6b7772d23))
+* **orders:** word the withdrawal dialog as the shop's mandate requires ([5589cb3](https://github.com/long-lazuli/boutikaa/commit/5589cb349c41c13a80a4f6cab4346883eef98edb))
+
+
 ### v0.27.0 — 2026-11-06T17:44:21Z
 
 ## [0.27.0](https://github.com/long-lazuli/boutikaa/compare/v0.26.0...v0.27.0) (2026-11-06)
