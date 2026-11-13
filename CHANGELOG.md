@@ -2,6 +2,16 @@
 
 ## Released Versions
 
+### v0.28.1 — 2026-11-13T17:00:04Z
+
+## [0.28.1](https://github.com/long-lazuli/boutikaa/compare/v0.28.0...v0.28.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **backup:** back up data only, export the key separately, and bound every step ([07616a1](https://github.com/long-lazuli/boutikaa/commit/07616a10b3d61a377975d3413a3b3cbd2e8987ee))
+
+
 ### v0.28.0 — 2026-11-13T09:51:31Z
 
 ## [0.28.0](https://github.com/long-lazuli/boutikaa/compare/v0.27.0...v0.28.0) (2026-11-13)
